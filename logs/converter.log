@@ -1,0 +1,5 @@
+2026-09-10 13:36:30,623 - INFO - csv file loaded successfully: input/sample_data.csv
+2026-09-10 13:36:30,643 - INFO - data cleaned successfully
+2026-09-10 13:36:30,911 - INFO - excel file created successfully: output/final_data.xlsx
+2026-09-10 13:38:10,331 - ERROR - input csv file was not found: input/wrong_file.csv
+2026-09-10 13:39:14,844 - ERROR - csv file is empty: input/empty.csv
